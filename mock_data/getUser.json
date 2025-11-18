@@ -1,0 +1,16 @@
+{
+    "url": "/api/getUser",
+    "method": "GET",
+    "match_method": false,
+    "use_regex": false,
+    "match_query": false,
+    "match_body": false,
+    "status_code": 200,
+    "headers": {
+        "Content-Type": "application/json"
+    },
+    "response": {
+        "id": 101,
+        "name": "Bhupesh"
+    }
+}

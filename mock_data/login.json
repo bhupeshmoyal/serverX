@@ -1,0 +1,11 @@
+{
+    "url": "/api/login",
+    "method": "GET",
+    "match_method": false,
+    "use_regex": false,
+    "match_body": false,
+    "response": {
+        "token": "abcd123"
+    },
+    "status_code": 200
+}

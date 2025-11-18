@@ -1,0 +1,12 @@
+{
+    "url": "/api/userRegisteration",
+    "method": "GET",
+    "match_method": false,
+    "use_regex": false,
+    "match_body": false,
+    "response": {
+        "user_name": "abcd123",
+        "user_status": "active"
+    },
+    "status_code": 200
+}
